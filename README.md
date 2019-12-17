@@ -25,6 +25,8 @@ Here is my list of sites and tools i have collected through the years of playing
 
 [Map setting customizer](https://osu.ppy.sh/community/forums/topics/201768) - tool to create custom version of maps
 
+[REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on the default playback device.
+
 ### Beatmap Mirrors
 
 [Eggplant](https://osu.eggplants.org/) 
